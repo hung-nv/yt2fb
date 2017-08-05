@@ -1,0 +1,10 @@
+.form-horizontal {
+    margin-bottom: 50px;
+}
+.form-horizontal .control-label {
+    font-size: 12px;
+}
+.form-horizontal .inputfile {
+    background: transparent;
+    border: none;
+}
